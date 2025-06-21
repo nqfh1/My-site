@@ -3,7 +3,6 @@ body {
 } 
 
 .square {
-  width: 30;
-  heigth:30;
+  
   background: red;
 }
