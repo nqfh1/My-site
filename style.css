@@ -10,5 +10,5 @@ body {
 .square {
   wigth: 30px;
   height: 30px;
-  background: green;
+  background-color: green;
 }
