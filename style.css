@@ -1,17 +1,8 @@
-* {
-  wigth: 0;
-  height: 0;
-  
-}
-body {
-  display: flex;
-  background-color: black;
 
-
-}
 
 .square {
   width: 30;
   heigth:30;
   background: red;
 }
+ 
