@@ -22,4 +22,10 @@ body {
   flex-direction: column;
   align-items: center;
   justify-content: center;
+  height: 58vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  top: 0;
 }
